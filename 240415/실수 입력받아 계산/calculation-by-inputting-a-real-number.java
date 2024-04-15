@@ -4,8 +4,8 @@ public class Main {
         // 여기에 코드를 작성해주세요.
         Scanner sc = new Scanner(System.in);
 
-        double a = sc.nextInt();
-        double b = sc.nextInt();
+        double a = sc.nextDouble();
+        double b = sc.nextDouble();
 
         System.out.printf("%.2f", a+b);
 
