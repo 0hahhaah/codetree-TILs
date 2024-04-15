@@ -7,7 +7,7 @@ public class Main {
 
         double a = sc.nextDouble();
 
-        System.out.printf("%.1f", a);
+        System.out.printf("%.1f", a*30.48);
 
     }
 }
