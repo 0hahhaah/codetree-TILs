@@ -4,6 +4,6 @@ public class Main {
         char a = 'C';
         int b = 3;
 
-        System.out.println(a+"!...!"+b);
+        System.out.println(a+"!.....!"+b);
     }
 }
