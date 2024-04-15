@@ -5,6 +5,6 @@ public class Main {
         int b = 2;
         char c = 'C';
 
-        System.out.println(a+"->"+b+"->"+c)
+        System.out.println(a+"->"+b+"->"+c);
     }
 }
