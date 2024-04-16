@@ -7,16 +7,20 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
+        int c,d;
+
         if(a<b) {
-            System.out.println(1);
+            c=1;
         } else {
-            System.out.println(0);
+            c=0;
         }
 
         if(a==b){
-            System.out.println(1);
+            d=1;
         } else {
-            System.out.println(0);
+            d=0;
         }
+
+        System.out.printf("%d %d",c,d);
     }
 }
