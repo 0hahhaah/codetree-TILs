@@ -4,8 +4,8 @@ public class Main {
         // 여기에 코드를 작성해주세요.
         Scanner sc = new Scanner(System.in);
 
-        double left = sc.nextInt();
-        double rigth = sc.nextInt();
+        double left = sc.nextDouble();
+        double rigth = sc.nextDouble();
 
         if(left >= 1.0 && right >= 1.0) {
             System.out.println("High");
