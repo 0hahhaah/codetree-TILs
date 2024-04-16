@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int score = sc.nextInt();
 
-        String pf = score == 100 ? "pass" : "fail";
+        String pf = score == 100 ? "pass" : "failure";
 
         System.out.println(pf);
     }
