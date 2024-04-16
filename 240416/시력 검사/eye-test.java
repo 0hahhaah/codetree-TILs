@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         double left = sc.nextDouble();
-        double rigth = sc.nextDouble();
+        double right = sc.nextDouble();
 
         if(left >= 1.0 && right >= 1.0) {
             System.out.println("High");
