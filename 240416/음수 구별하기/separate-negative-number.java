@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println(a);
 
-        if(a%2 != 0){
+        if(a < 0){
             System.out.println("minus");
         }
     }
