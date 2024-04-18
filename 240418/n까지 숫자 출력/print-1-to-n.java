@@ -5,10 +5,10 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-
-        while(n >= 1) {
-            System.out.print(n+" ");
-            n--;
+        int i=1;
+        while(i <= n) {
+            System.out.print(i+" ");
+            i++;
         }
     }
 }
