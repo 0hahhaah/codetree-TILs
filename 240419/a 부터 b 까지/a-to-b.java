@@ -7,7 +7,7 @@ public class Main {
 
         int a = sc.nextInt();
         int b = sc.nextInt();
-        int i=0;
+        int i=a;
 
         while(i <= b) {
             System.out.print(i + " ");
